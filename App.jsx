@@ -1,3 +1,4 @@
+const API_BASE_URL = 'https://promoter-dashboard.onrender.com';
 import { useState, useEffect } from 'react';
 import { MapContainer, TileLayer, Marker, Popup, Circle } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';

@@ -1,3 +1,4 @@
+const API_BASE_URL = 'https://promoter-dashboard.onrender.com';
 import { useState, useEffect } from 'react';
 import { MapPin, CheckCircle, Clock, Coffee, LogOut } from 'lucide-react';
 
